@@ -3,6 +3,7 @@
 - Blazor main
 
 <div>
-  <img src="https://www.codeguru.com/csharp/c-sharp-advantages/" width="50" height="50">
+
 </div>
 
+<img src="https://github.com/user-attachments/assets/0b3c6063-314e-4d79-8366-db2532e54c6a.png">
