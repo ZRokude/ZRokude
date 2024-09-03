@@ -11,4 +11,4 @@ width="50" height="50">
   <img src="https://github.com/user-attachments/assets/b91c4b8a-40fb-4365-9e45-2dcc85f4910d" alt="MongoDB"
 width="50" height="50">
 </div>
-![mongodb-original-icon-921x2048-hvrb89lu]()
+
