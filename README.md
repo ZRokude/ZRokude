@@ -3,7 +3,6 @@
 - Blazor main
 
 <div>
-
+  <img src="https://iconduck.com/icons/27153/c-sharp-c.png" width="25">
 </div>
 
-![png-transparent-c|10%](https://github.com/user-attachments/assets/9f06e319-a898-49d3-b640-eb6d7ef4f967)
